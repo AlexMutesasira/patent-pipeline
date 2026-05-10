@@ -1,0 +1,125 @@
+{
+  "total_patents": 1557624,
+  "top_inventors": [
+    {
+      "rank": 1,
+      "name": "Shunpei Yamazaki",
+      "country": "Unknown",
+      "patents": 144
+    },
+    {
+      "rank": 2,
+      "name": "Kangguo Cheng",
+      "country": "Unknown",
+      "patents": 113
+    },
+    {
+      "rank": 3,
+      "name": "Chen-Hua Yu",
+      "country": "Unknown",
+      "patents": 60
+    },
+    {
+      "rank": 4,
+      "name": "Xue Dong",
+      "country": "Unknown",
+      "patents": 57
+    },
+    {
+      "rank": 5,
+      "name": "Alexander Reznicek",
+      "country": "Unknown",
+      "patents": 47
+    },
+    {
+      "rank": 6,
+      "name": "Ruilong Xie",
+      "country": "Unknown",
+      "patents": 43
+    },
+    {
+      "rank": 7,
+      "name": "Che-Cheng Chang",
+      "country": "Unknown",
+      "patents": 36
+    },
+    {
+      "rank": 8,
+      "name": "Haisheng Wang",
+      "country": "Unknown",
+      "patents": 35
+    },
+    {
+      "rank": 9,
+      "name": "Shengji Yang",
+      "country": "Unknown",
+      "patents": 35
+    },
+    {
+      "rank": 10,
+      "name": "Xiaochuan Chen",
+      "country": "Unknown",
+      "patents": 35
+    }
+  ],
+  "top_companies": [
+    {
+      "rank": 1,
+      "name": "SAMSUNG ELECTRONICS CO., LTD.",
+      "patents": 2605
+    },
+    {
+      "rank": 2,
+      "name": "International Business Machines Corporation",
+      "patents": 1002
+    },
+    {
+      "rank": 3,
+      "name": "TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY LTD.",
+      "patents": 891
+    },
+    {
+      "rank": 4,
+      "name": "BOE Technology Group Co., Ltd.",
+      "patents": 668
+    },
+    {
+      "rank": 5,
+      "name": "Intel Corporation",
+      "patents": 479
+    },
+    {
+      "rank": 6,
+      "name": "Micron Technology, Inc.",
+      "patents": 462
+    },
+    {
+      "rank": 7,
+      "name": "Semiconductor Energy Laboratory Co., Ltd.",
+      "patents": 405
+    },
+    {
+      "rank": 8,
+      "name": "LG Display Co., Ltd.",
+      "patents": 363
+    },
+    {
+      "rank": 9,
+      "name": "SK hynix Inc.",
+      "patents": 362
+    },
+    {
+      "rank": 10,
+      "name": "Japan Display Inc.",
+      "patents": 344
+    }
+  ],
+  "top_countries": [
+    {
+      "rank": 1,
+      "country": "Unknown",
+      "patents": 31785,
+      "share_pct": 2.04
+    }
+  ]
+}

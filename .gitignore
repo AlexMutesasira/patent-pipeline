@@ -1,0 +1,26 @@
+# ── Large data files — too big for GitHub ──────────────────
+data/raw/
+data/clean/
+patents.db
+
+# ── Python cache ────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# ── Virtual environments ─────────────────────────────────────
+venv/
+.env/
+env/
+
+# ── OS files ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── VS Code settings ─────────────────────────────────────────
+.vscode/
+
+# ── Jupyter notebooks checkpoints ───────────────────────────
+.ipynb_checkpoints/
